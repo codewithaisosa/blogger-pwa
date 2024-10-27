@@ -1,14 +1,14 @@
 {
-  "name": "My Blog",
+  "name": "Nairachimp",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "Nairachimp",
+  "description": "Learn how to create, customize, and monetize a blog on Blogger. Learn how to make money online in Nigeria, including blogging and affiliate marketing.",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://hello-example.blogspot.com/?utm_source=homescreen",
-  "scope": "https://hello-example.blogspot.com/",
+  "start_url": "https://www.nairachimp.com/?utm_source=homescreen",
+  "scope": "https://www.nairachimp.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -119,7 +119,7 @@
       "name": "Shortcut 1",
       "short_name": "Shortcut 1",
       "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "url": "https://www.nairachimp.com/search/label/shortcut-1?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -131,7 +131,7 @@
       "name": "Shortcut 2",
       "short_name": "Shortcut 2",
       "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "url": "https://www.nairachimp.com/search/label/shortcut-2?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
