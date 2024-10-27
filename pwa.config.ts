@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Nairachimp',
+  shortName: 'Nairachimp',
+  description: 'Learn how to create, customize, and monetize a blog on Blogger. Learn how to make money online in Nigeria, including blogging and affiliate marketing.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.nairachimp.com/',
 } satisfies Config;
