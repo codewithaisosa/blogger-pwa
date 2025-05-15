@@ -2,12 +2,12 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'TeachMe',
+  shortName: 'TeachMe',
+  description: 'Teachme.ng is your go-to guide for all things university in Nigeria. We'll cover JAMB prep, JAMB guide, admissions and more. Plus free tools and resources.',
   direction: 'auto',
   language: 'en-US',
-  backgroundColor: '#fff',
+  backgroundColor: '#000',
   themeColor: '#fff',
   display: 'standalone',
   orientation: 'natural',
@@ -17,10 +17,10 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
+      name: 'JAMB Syllabus',
+      shortName: 'JAMB Syllabus',
       description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      url: '/search/label/JAMB%20Syllabus?utm_source=homescreen',
     },
     {
       name: 'Shortcut 2',
@@ -32,9 +32,9 @@ export default {
   pwa: {
     logs: true,
     // OneSignal is not available if you are not using cloudflare workers
-    oneSignalEnabled: false,
+    oneSignalEnabled: true,
     oneSignalConfig: {
-      appId: '********-****-****-****-************',
+      appId: '944d4a23-da82-4157-8015-010d38a6bdb5',
       allowLocalhostAsSecureOrigin: true,
     },
   },
