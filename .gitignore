@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+
+# production
+build
+dist
+.workers-build
+
+# wrangler
+.wrangler
+
+# misc
+.DS_Store
+
+# tests
+.tests
+
+# cert
+.cert
+
+npm-debug.log
+yarn-error.log
+yarn.lock
+.yarnclean
+
+*.log
+*.key
+*.crt
